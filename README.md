@@ -12,5 +12,7 @@ The pH scale runs from 0 to 14 — values below 7 are acidic, 7 is neutral, and 
 I learned how to use these concepts: functions, filter function, lambda function, lists, tuples(used to group the compounds with their pH value), loops, unpacking(used to extract each value from the tuple for display).
 
 # Example output
+If input: min pH = 5 and max pH = 7
+then ouput:
 Water: pH 7
 Black coffee: pH 5
